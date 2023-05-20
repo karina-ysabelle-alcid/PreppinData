@@ -1,6 +1,10 @@
-This repository contains my solutions to the Preppin' Data activities. Preppin' Data is a weekly data preparation challenge where participants are given a dataset and a set of requirements to transform and clean the data using tools like Tableau Prep, Alteryx, or SQL.
+# Preppin Data Activities with Python
 
-Each activity is contained in a separate folder and includes the original dataset, the expected output dataset, a README.md file describing the requirements, and my solution file(s) showcasing the steps taken to complete the activity.
+This repository contains my solutions to the Preppin Data activities, completed using Python. [Preppin' Data](https://www.preppindata.com/) is a website that provides weekly data preparation challenges to help improve your data analysis and manipulation skills.
+
+## About Preppin Data
+
+Preppin Data offers a variety of real-world data challenges in a format similar to Tableau's "Makeover Monday" and Alteryx's "Weekly Challenge." Each week, a new dataset is provided along with a set of requirements and instructions. The goal is to transform and prepare the data to meet specific criteria.
 
 ## Table of Contents
 
